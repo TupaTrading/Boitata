@@ -1,1 +1,1 @@
-# Boitata
+# Boitatá - python control on metatrader 
